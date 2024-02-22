@@ -1,6 +1,6 @@
 body{
     
-        background-color: antiquewhite;
+        background-color:rgb(216, 191, 155) ;
         
 
     /* Container holding the image and the text */
@@ -51,4 +51,17 @@ div{
     font-size: 80px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 5px;
+}
+li{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(41, 20, 20);
+}
+hr{
+  height: 1px;
+  background-color: rgb(41, 20, 20);
+  border-color: rgb(62, 17, 17);
+}
+h1{
+  font-size: 35px;
 }
