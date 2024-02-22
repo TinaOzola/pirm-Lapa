@@ -64,4 +64,12 @@ hr{
 }
 h1{
   font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(41, 20, 20) ;
 }
+h3{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(41, 20, 20) ;
+}
+
