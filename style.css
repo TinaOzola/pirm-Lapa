@@ -72,4 +72,21 @@ h3{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color:rgb(41, 20, 20) ;
 }
+a:link {
+  color: red;
+}
 
+/* visited link */
+a:visited {
+  color: rgb(139, 116, 14);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(255, 0, 128);
+}
+
+/* selected link */
+a:active {
+  color: rgb(168, 7, 88);
+}
