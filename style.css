@@ -90,3 +90,6 @@ a:hover {
 a:active {
   color: rgb(168, 7, 88);
 }
+p{
+  font-size: 30px;
+}
